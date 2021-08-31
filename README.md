@@ -1,4 +1,4 @@
-## Blue Energy app
+## Blue Energy App
 
 This is a starter ReactJS UI for my 'Create a Serverless App' tutorial series.
 
