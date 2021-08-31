@@ -1,0 +1,26 @@
+1. create a table in dynamoDB to use as database, with this you have to create 
+2. create IAM USER under root account to implement policy and permission and role to use in creating lambda functions. 
+3. create a lambda function to pull patch add and delete data in in the application, you will 
+   need your IAM USER credentials, changes will reflect in dynamoDB table.
+4. under lambda edit designer tab in function code.
+5. open your IDE (i use visual code, have realy good plugins and easy to use) to build your code function and replace function codes in aws lambda console.
+6. install lambda extension in vs code extension find --> AWS lambda boilerplate
+7. continue to code all the function needed.
+8. create aws api gateway for get method and resource to access data business logic, or functionality.
+9. open source code in vs code use git bash in the terminal to acces aws amplify 
+10. open and edit website using local ip address. 
+
+**the actual procedure and steps where actually so long. i try my best to put it in short instructions. enjoy! 
+
+*******************************************************
+---how to open local site using bash in vs code and integrate in aws amplify to deploy site.
+inside visual code open new terminal select bash as terminal
+open master folder named "master" in files(project) and git init as master code
+type in bash terminal > " npm i "  to add defendies in your pc (press enter then) > " npm i "aws-amplify" " to add aws configuration tool kit
+after succesfull type npm run start local site will open.
+
+**i didnt do the domain name becouse this is just for a project but i already 
+did a domain name deploy from my other site using aws route53.
+*******************************************************
+
+Thank you! William Manese - Student - Web and Mobile App Development

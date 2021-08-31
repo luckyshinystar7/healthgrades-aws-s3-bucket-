@@ -1,0 +1,10 @@
+{
+  "api": { 
+    "invokeUrl": "https://rbuch4kes3.execute-api.ca-central-1.amazonaws.com/prod" 
+  },
+  "cognito": {
+    "REGION": "ca-central-1",
+    "USER_POOL_ID": "ca-central-1_fFk9nBOKi",
+    "APP_CLIENT_ID": "6bpgjuh3qrvp88drloujvv6k01"
+  }
+}
