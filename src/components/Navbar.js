@@ -32,6 +32,9 @@ export default class Navbar extends Component {
             <a href="/admin" className="navbar-item">
               Admin
             </a>
+            <a href="/link" className="navbar-item">
+              Admin
+            </a>
           </div>
 
           <div className="navbar-end">
