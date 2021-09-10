@@ -68,9 +68,9 @@ body {
 }
 
 #btn btn-footer {
-  background-color: #4CAF50; /* Green */
+  background-color: lightskyblue; /* Green */
   border: none;
-  color: green;
+  color: lightskyblue;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
